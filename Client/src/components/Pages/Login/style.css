@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap');
+
+.inp-field{
+    outline: 0;
+    border: 0;
+    border-bottom: 1px solid gray;
+    padding: 5px 5px;
+    font-size: 20px;
+}
+.login-card{
+    max-width: 500px;
+}
+.insta-name{
+    font-family: 'Grand Hotel', cursive;
+}

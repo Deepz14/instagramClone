@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap');
+
+.inp-field{
+    outline: 0;
+    border: 0;
+    border-bottom: 1px solid gray;
+    padding: 5px 5px;
+    font-size: 20px;
+}
+.signup-card{
+    max-width: 500px;
+}
+.brand-name{
+    font-family: 'Grand Hotel', cursive;
+}

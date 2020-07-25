@@ -1,0 +1,39 @@
+.home{
+    margin: 15px auto;
+    padding: 0 10px;
+}
+.display-card{
+    width: 24rem;
+    margin: 15px auto;
+}
+.comment{
+    outline: 0;
+    border: 0;
+    border-bottom: 1px solid gray;
+    width: 100%;
+    padding: 10px 5px;
+}
+.card-title, .card-text{
+    color: black;
+}
+.card-header{
+    background-color: white !important;
+    color: black !important;
+    display: flex;
+    justify-content: space-between;
+}
+.header-img{
+    width: 10%;
+    border-radius: 35px;
+}
+.username-header{
+    margin: 5px 15px;
+}
+.icons{
+    color: black;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+.delicons{
+    cursor : pointer;
+}
